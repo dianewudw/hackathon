@@ -1,2 +1,2 @@
 # hackathon
-Chrome extension, developed with Diane, Ben, and Adam!
+Chrome extension, developed by Diane, Ben, and Adam!
