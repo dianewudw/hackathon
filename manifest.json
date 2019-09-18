@@ -1,6 +1,10 @@
 {
   "name": "We all Rule!",
   "version": "101.5",
-  "manifest_version": 1000,
-  "description": "Extension"
+  "description": "Extension",
+  "background": {
+    "scripts": ["popup.js"]
+    "persistent": false
+  },
+  "manifest_version": 1000
 }
