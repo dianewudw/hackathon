@@ -10,7 +10,6 @@ chrome.runtime.onInstalled.addListener(function() {
 
   
 chrome.runtime.onStart.addListener(function() {
-  function() {
     new chrome.declarativeContent.ShowPageAction()
     // console.log("The color is light green.");
   });
