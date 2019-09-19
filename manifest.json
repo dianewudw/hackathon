@@ -1,5 +1,6 @@
 {
   "name": "We all Rule!",
+  "options_page": "options.html",
   "version": "101.5",
   "description": "Extension",
   "permissions": ["activeTab", "declarativeContent", "storage"],
